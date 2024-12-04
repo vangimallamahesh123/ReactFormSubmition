@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+
+}
+
+.maheshcontiner{
+    border: 2px solid green;
+    width: 200px;
+    height: 220px;
+    margin-left: 150px;
+    margin-top: 30PX;
+    text-align: center;
+    background: linear-gradient(orange,white,green);
+}
+input{
+    color: rgb(195, 13, 13);
+}
+label{
+    color: red;
+}
